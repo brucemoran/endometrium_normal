@@ -2,3 +2,4 @@
 ## Steps
 ##### 1: Clone repo
 ##### 2: Run main.nf to download data, run upstream and downstream analysis
+         nextflow run main.nf
